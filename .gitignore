@@ -1,0 +1,5 @@
+# environment variable
+*.h5ad
+.dtnn_env
+data
+notebooks/cache/
